@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("¡¡¡Hola Universo!!!");
         System.out.println("Hello Universe!!!");
+        System.out.println("Ciao universo");
     }
 }
